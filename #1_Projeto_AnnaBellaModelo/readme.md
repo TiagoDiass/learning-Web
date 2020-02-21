@@ -1,3 +1,0 @@
-PRINTSSSSSSSS
-
-teste
