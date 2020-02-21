@@ -1,2 +1,2 @@
 # learning-Web
-Alguns projetos enquanto eu aprendo desenvolvimento web
+Aqui estão alguns projetos que farei enquanto aprendo desenvolvimento web :D
