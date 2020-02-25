@@ -1,4 +1,6 @@
 # learning-Web
-Aqui estão alguns projetos que fiz/estou fazendo enquanto aprendo desenvolvimento web :D
 
-Here are some projects I've done/am doing while learning web development :D
+Aqui estão alguns projetos que fiz/estou fazendo enquanto aprendo desenvolvimento web :D |
+Todos os projetos possuem uma pasta com algumas screenshots para que você possa vê-los antes de baixá-los...
+
+Here are some projects I've done/am doing while learning web development :D | All the projects have a folder with some screenshots for you to see them before downloading them...
