@@ -39,7 +39,6 @@ body{
 }
 
 #area-lateral{
-    background: orange;
     width: 240px;
     float: right;
 }
@@ -49,6 +48,18 @@ body{
     margin-bottom: 20px;
     background: white;
 
+}
+
+.conteudo-lateral{
+    background: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.post-lateral{
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #565656;
 }
 
 #rodape{
@@ -91,6 +102,16 @@ h1{
 }
 
 h2{
+    color: #f7b600;
+}
+
+h3{
+    color: #565656;
+    background: #CCC;
+    padding: 5px;
+}
+
+h4{
     color: #f7b600;
 }
 
