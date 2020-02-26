@@ -43,6 +43,14 @@ body{
     width: 240px;
     float: right;
 }
+
+#rodape{
+    clear: both;
+    text-align: center;
+    background: #CCC;
+    padding: 15px;
+}
+
 /*-- Formatação do MENU --*/
 
 a{
