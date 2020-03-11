@@ -202,6 +202,11 @@ h3{
     color: #FFF;
 }
 
+h3.destaque-categoria{
+    background: #3E3534;
+    color: #FFF;
+}
+
 /* FORMATANDO LISTA DE NOTÍCIAS */
 #lista-noticias li{
     padding: 2px;
