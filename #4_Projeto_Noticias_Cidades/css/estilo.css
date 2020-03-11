@@ -129,6 +129,15 @@ h2{
     margin-top: 5px;
 }
 
+.caixa-conteudo a:link, a:visited{
+    color: #b10333;
+    padding: 2px;
+}
+
+.caixa-conteudo a:hover{
+    color: #de003c;
+}
+
 /* FORMATANDO MENU LATERAL */
 #lateral ul a{
     font-size: 0.9em;
@@ -165,6 +174,64 @@ input.botao{
     background-color: #b10333;
     border: 2px solid #870529;
     font-weight: bold;
+    margin-top: 5px;
+}
+
+/* FORMATANDO IMAGENS */
+img.imagem-principal{
+    width: 98%;
+    border: 3px solid #dfdfdf;
+}
+
+/* FORMATANDO CABEÇALHOS */
+
+h3{
+    text-transform: uppercase;
+    display: inline;
+    font-size: 0.8em;
+    padding: 3px;
+}
+
+.destaque h3{
+    background: #b10333;
+    color: #FFF;
+}
+
+.entrevista h3{
+    background: #de003e;
+    color: #FFF;
+}
+
+/* FORMATANDO LISTA DE NOTÍCIAS */
+#lista-noticias li{
+    padding: 2px;
+    border-bottom: 1px solid #ccc;
+    height: 62px;
+}
+
+#lista-noticias li a img{
+    float: left;
+    margin: 5px;
+}
+
+#lista-noticias li a{
+    text-decoration: none;
+}
+
+#lista-noticias li a h3{
+    padding: 0;
+    font-size: 0.8em;
+    color: #3e7ab9;
+}
+
+#lista-noticias li a p{
+    font-size: 0.7em;
+    color: #000;
+}
+
+#lista-noticias li:hover{
+    background: #eee;
+    cursor: pointer;
 }
 
 /* RODAPÉ */
