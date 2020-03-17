@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Simple calculator</title>
+        <link rel="stylesheet" href="css/estilo.css">
+    </head>
+    <body>
+        
+        <div id="calculadora">
+
+            <textarea id="display" rows="1" disabled></textarea>
+
+            <button class="igual" onclick="pressEqual()">=</button>
+
+            <div id="primeiraLinha">
+                <button onclick="pressNum(this)">1</button>
+                <button onclick="pressNum(this)">2</button>
+                <button onclick="pressNum(this)">3</button>
+                <button onclick="pressOperator(this)">+</button>
+            </div>
+
+            <div>
+                <button onclick="pressNum(this)">4</button>
+                <button onclick="pressNum(this)">5</button>
+                <button onclick="pressNum(this)">6</button>
+                <button onclick="pressOperator(this)">-</button>
+            </div>
+
+            <div>
+                <button onclick="pressNum(this)">7</button>
+                <button onclick="pressNum(this)">8</button>
+                <button onclick="pressNum(this)">9</button>
+                <button onclick="pressOperator(this)">*</button>
+            </div>
+
+            <div>
+                <button onclick="pressNum(this)">.</button>
+                <button onclick="pressNum(this)">0</button>
+                <button id="clear" onclick="clearAll()">C</button>
+                <button onclick="pressOperator(this)">/</button>
+            </div>
+
+        </div>
+
+        <script src="js/calculadora.js"></script>
+
+    </body>
+</html>
