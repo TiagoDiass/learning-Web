@@ -117,5 +117,6 @@ input:focus{
     border-width: 0;
     text-align: center;
     background-color: rgb(173, 56, 120);
-    color: #FFF;
+    color: #FFF;  
+    cursor: pointer;
 }
