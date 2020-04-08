@@ -1,6 +1,6 @@
-# learning-Web
+# learning-Web :nerd_face:
 
-Aqui estão alguns projetos básicos que fiz/estou fazendo enquanto aprendo HTML, CSS e Javascript :D |
+Aqui estão alguns projetos básicos que fiz/estou fazendo para poder praticar HTML, CSS e Javascript :D |
 Todos os projetos possuem uma pasta com algumas screenshots para que você possa vê-los antes de baixá-los...
 
-Here are some basic projects I've done/am doing while learning HTML, CSS and Javascript :D | All the projects have a folder with some screenshots for you to see them before downloading them...
+Here are some basic projects I've done/am doing with the aim of practicing HTML, CSS and Javascript :D | All the projects have a folder with some screenshots for you to see them before downloading them...
