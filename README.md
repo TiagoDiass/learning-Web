@@ -2,7 +2,7 @@
 
 <hr>
 
-Aqui estão alguns projetos básicos(os meus primeiros projetos) que fiz/estou fazendo para poder praticar HTML, CSS e Javascript :D |
+Aqui estão alguns projetos básicos(os meus primeiros projetos) que fiz/estou fazendo para poder praticar HTML, CSS e Javascript :D<br>
 Todos os projetos possuem uma pasta com algumas screenshots para que você possa vê-los antes de baixá-los...<br>
 Como o nome do repositório já diz, desenvolvi e estou desenvolvendo vários projetos neste repositório para consolidar meus conhecimentos em HTML, CSS e Javascript, visto que na época em que o criei eu ainda estava aprendendo essas tecnologias :D
 
