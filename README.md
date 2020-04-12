@@ -2,11 +2,8 @@
 
 <hr>
 
-Aqui estão alguns projetos básicos(os meus primeiros projetos) que fiz/estou fazendo para poder praticar HTML, CSS e Javascript :D<br>
-Todos os projetos possuem uma pasta com algumas screenshots para que você possa vê-los antes de baixá-los...<br>
-Como o nome do repositório já diz, desenvolvi e estou desenvolvendo vários projetos neste repositório para consolidar meus conhecimentos em HTML, CSS e Javascript, visto que na época em que o criei eu ainda estava aprendendo essas tecnologias :D
-
-Here are some basic projects(my first ones) I've done/am doing with the aim of practicing HTML, CSS and Javascript :D | All the projects have a folder with some screenshots for you to see them before downloading them...
+Aqui estão os meus primeiros projetos que desenvolvi para poder praticar e fixar os conhecimentos de HTML, CSS e Javascript :D<br>
+Here are my first projects that I developed with the aim of practicing and learn HTML, CSS and Javascript.
 
 ## Resultados finais de cada projeto / Final results of each project :clipboard:
 
@@ -49,7 +46,7 @@ Another one of my first projects, and this is another project that I really enjo
 ### #5 Efeito Parallax 
 Essa é somente uma página para demonstrar o simples mas muito bonito efeito parallax, que pode ser encontrado em vários sites.
 
-This is page to demonstrate the simple but really pretty effect parallax, you can find it on a lot of sites.
+This is a page to demonstrate the simple but really pretty effect parallax, you can find it on a lot of sites.
 
 ![](gif-efeito-parallax.gif)
 
@@ -70,3 +67,12 @@ Essa é uma tela de login e cadastro simples.
 This is a simple Sign Up and Sign In screen.
 
 <img src="https://raw.githubusercontent.com/TiagoDiass/learning-Web/master/7_SignIn_SignUp_Screen/Screenshots/Screenshot_1.png" alt="Screenshot1 Tela de Login" width="430"> <img src="https://raw.githubusercontent.com/TiagoDiass/learning-Web/master/7_SignIn_SignUp_Screen/Screenshots/Screenshot_2.png" alt="Screenshot2 Tela de Cadastro" width="430"> 
+
+<hr>
+
+### #8 Museu Nacional
+Esse é um site feito para um museu fictício chamado Museu Nacional.
+
+This is a site made for a fictional museum called Museu Nacional.
+
+<img src="https://raw.githubusercontent.com/TiagoDiass/learning-Web/master/8_Projeto_Museu_Nacional/Screenshots/Screenshot_1.png" alt="Screenshot1 Museu Nacional" width="700">
